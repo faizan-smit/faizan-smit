@@ -9,7 +9,21 @@
 
 <p align="left"> <a href="https://twitter.com/rescuealaqsa" target="blank"><img src="https://img.shields.io/twitter/follow/rescuealaqsa?logo=twitter&style=for-the-badge" alt="rescuealaqsa" /></a> </p>
 
+- 🧑‍💻 I’m currently working on [Expertizo](https://github.com/faizan-smit/expertizo)
+
+- 🌱 I’m currently learning **Software Engineering**
+
+- 💻 My last project was [Saylani Welfare Website](https://github.com/faizan-smit/saylani-welfare-clone)
+
 - 👨‍💻 All of my projects are available at [https://www.github.com/faizan-smit](https://www.github.com/faizan-smit)
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **faizan.smit@gmail.com**
+
+- 🎮 My Steam Profile [https://steamcommunity.com/id/FaizanMS/](https://steamcommunity.com/id/FaizanMS/)
+
+- ⚡ Fun fact **My Gaming Alias is Angel Of Death 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
