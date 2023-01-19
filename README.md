@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-smit&label=Profile%20views&color=0e75b6&style=flat" alt="faizan-smit" /> </p>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan-smit" alt="faizan-smit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="50" src="https://github-profile-trophy.vercel.app/?username=faizan-smit" alt="faizan-smit" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rescuealaqsa" target="blank"><img src="https://img.shields.io/twitter/follow/rescuealaqsa?logo=twitter&style=for-the-badge" alt="rescuealaqsa" /></a> </p>
 
