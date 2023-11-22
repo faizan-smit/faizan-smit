@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/rescuealaqsa" target="blank"><img src="https://img.shields.io/twitter/follow/rescuealaqsa?logo=twitter&style=for-the-badge" alt="rescuealaqsa" /></a> </p>
 
-- 🧑‍💻 I’m currently working on [Expertizo](https://github.com/faizan-smit/expertizo)
+- 🧑‍💻 I’m currently working on [Utophoria](https://github.com/faizan-smit/UtophoriaUpdated)
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💻 My last project was [Saylani Welfare Website](https://github.com/faizan-smit/saylani-welfare-clone)
+- 💻 My last project was [VectorSearch with OpenAI vector](https://github.com/faizan-smit/ReactCRUDwithVectorSearch)
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/faizan-smit](https://www.github.com/faizan-smit)
 
